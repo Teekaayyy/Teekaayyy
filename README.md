@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Jessica, a Data Analyst, an AI Automation Engineer, and a Mechatronics Engineer from Nigeria. I build smart systems, automate workflows, and translate data into insights that drive product and business decisions.</p>
+<p align="left">I’m Jessica, I build smart systems, automate workflows, and translate data into insights that drive product and business decisions.</p>
 
 ###
 
