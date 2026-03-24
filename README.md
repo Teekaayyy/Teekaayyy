@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Jessica, I build smart systems, automate workflows, and translate data into insights that drive product and business decisions.</p>
+<p align="left">Hello, I’m Jessica. I build smart systems, automate workflows, and translate data into insights that drive product and business decisions.</p>
 
 ###
 
