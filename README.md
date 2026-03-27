@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions (and yes… a few bugs) along the way<br>🧠 Experienced user behavior insights, social listening, feedback analysis, building interactive dashboards, and integrating automation into data and business workflows<br>📚 I'm currently learning Claude Code and exploring advanced workflow automation with n8n & AI integrations.<br>🎯 Goals: Build scalable backend automations and intelligent data driven systems<br>🎲 Fun fact: I enjoy combining engineering logic with no-code/low-code automation</p>
+<p align="left">✨ Creating solutions (and yes… a few bugs) along the way<br>🧠 Experienced user behavior insights, social listening, feedback analysis, building interactive dashboards, and integrating automation into data and business workflows<br>📚 I'm currently learning basic ML for predictions and exploring advanced workflow automation with n8n & AI integrations.<br>🎯 Goals: Build scalable backend automations and intelligent data driven systems<br>🎲 Fun fact: I enjoy combining engineering logic with no-code/low-code automation</p>
 
 ###
 
